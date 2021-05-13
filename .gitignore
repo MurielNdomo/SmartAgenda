@@ -1,0 +1,3 @@
+venv/*
+SmartAgendaBackend/SmartAgendaBackend/__pycache__/*
+SmartAgendaBackend/db.sqlite3
