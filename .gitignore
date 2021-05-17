@@ -1,3 +1,7 @@
 venv/*
 SmartAgendaBackend/SmartAgendaBackend/__pycache__/*
 SmartAgendaBackend/db.sqlite3
+SmartAgendaBackend/todo_app/__pycache__/*
+SmartAgendaBackend/todo_app/migrations/__pycache__/*
+SmartAgendaBackend/wallet_app/__pycache__/*
+SmartAgendaBackend/wallet_app/migrations/__pycache__/*
